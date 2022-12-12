@@ -1,0 +1,31 @@
+.base {border: 1px solid #c4c4c4; border-radius: 10px;
+    margin: 232px auto; width: 336px;
+    background: linear-gradient(#ffdc40 8%, rgba(204, 0, 0, 0) 8%);}
+  
+  .text {position: relative; margin: 41px 22px 19px 28px;}
+  
+  .myP {margin: 0 65px;}
+  
+  img {position: relative; top: 16px; left: 250px;}
+  
+  input {position: relative; margin: 0 22px; border: 1px solid #c4c4c4; border-radius: 10px; width: 286px; height: 40px;}
+  
+  .inputA {position: relative;}
+  
+  .fair {position: absolute;top: 12px;left: 280px;}
+  
+  .fair:hover {background-color: #833ae0; border-radius: 50%;}
+  
+  
+  #textdiv {display: block;margin: 0 22px;margin-top: 20px; border: 1px solid #c4c4c4;
+    border-radius: 10px;width: 286px;max-height: 150px;overflow-x: hidden;}
+  
+  .textul {list-style-type: none;padding-left: 5px;margin: 0;display: inline-block;}
+  
+  .mybuttondiv {position: relative;margin-bottom: 20px;}
+  
+  .buttonB {background: #833ae0; border-radius: 71px;width: 150px;
+    height: 42px;margin: 0 90px;margin-top: 18px;color: white;}
+  
+  .buttonC {position: absolute; top: 19.5px;left: 92px; width: 39px;
+    height: 39px;border-color: #833ae0;background: #9953f1;border-radius: 71px;color: white;}
